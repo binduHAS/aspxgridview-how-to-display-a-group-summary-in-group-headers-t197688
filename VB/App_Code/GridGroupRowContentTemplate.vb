@@ -1,4 +1,6 @@
-﻿Imports DevExpress.Web
+﻿Option Infer On
+
+Imports DevExpress.Web
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Text
